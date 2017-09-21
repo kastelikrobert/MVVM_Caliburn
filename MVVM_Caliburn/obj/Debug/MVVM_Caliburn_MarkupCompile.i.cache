@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Robert\source\repos\MVVM_Caliburn\MVVM_Caliburn\App.xaml
-1-250345876
+3-1791676760
 
-11-1705813325
+161388567038
 70220804320
-Views\ShellView.xaml;
+Views\FirstChildView.xaml;Views\SecondChildView.xaml;Views\ShellView.xaml;
 
 False
 

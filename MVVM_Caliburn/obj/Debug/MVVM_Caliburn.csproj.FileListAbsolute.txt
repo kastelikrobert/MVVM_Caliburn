@@ -22,3 +22,7 @@ C:\Users\Robert\source\repos\MVVM_Caliburn\MVVM_Caliburn\obj\Debug\MVVM_Caliburn
 C:\Users\Robert\source\repos\MVVM_Caliburn\MVVM_Caliburn\obj\Debug\MVVM_Caliburn.csproj.CoreCompileInputs.cache
 C:\Users\Robert\source\repos\MVVM_Caliburn\MVVM_Caliburn\obj\Debug\MVVM_Caliburn.exe
 C:\Users\Robert\source\repos\MVVM_Caliburn\MVVM_Caliburn\obj\Debug\MVVM_Caliburn.pdb
+C:\Users\Robert\source\repos\MVVM_Caliburn\MVVM_Caliburn\obj\Debug\Views\FirstChildView.g.cs
+C:\Users\Robert\source\repos\MVVM_Caliburn\MVVM_Caliburn\obj\Debug\Views\SecondChildView.g.cs
+C:\Users\Robert\source\repos\MVVM_Caliburn\MVVM_Caliburn\obj\Debug\Views\FirstChildView.baml
+C:\Users\Robert\source\repos\MVVM_Caliburn\MVVM_Caliburn\obj\Debug\Views\SecondChildView.baml
